@@ -1,0 +1,31 @@
+GIMP Palette
+Name: 
+Columns: 8
+#
+0   0   0   Schwarz
+255 0   0   Rot
+0   0   255 Blau
+51  102 153 Dunkelblau
+0   255 255 Cyanblau
+0   255 0   Gr?n
+0   153 51  Grasgr?n
+0   102 51  Dunkelgr?n
+153 153 51  Olivbraun
+153 102 51  Braun
+102 51  0   Wallnuss
+102 0   102 Pflaumenblau
+153 0   204 Voilett
+255 0   255 Purpur
+255 102 0   Orange
+255 255 0   Gelb
+0   0   0   100%
+25  25  25  90%
+51  51  51  80%
+76  76  76  70%
+102 102 102 60%
+127 127 127 50%
+153 153 153 40%
+178 178 178 30%
+204 204 204 20%
+229 229 229 10%
+255 255 255 0%
