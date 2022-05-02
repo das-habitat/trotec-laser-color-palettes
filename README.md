@@ -21,6 +21,12 @@ Dieses Repository enthält Farbpaletten für diverse Grafikprogramme:
 | Paint Shop Pro / JASC                          | [Download .pal][pal]             |
 | Paint.net                                      | [Download .txt][txt]             |
 
+Zum Download benutze den entsprechenden Link und klicke dann auf den Button
+"Download" rechts auf der sich öffnenden Seite.
+
+Du kannst auch [alle Paletten auf einmal herunterladen][all].
+
+[all]: https://github.com/das-habitat/trotec-laser-color-palettes/archive/refs/heads/main.zip
 [aco]: ./Farbpalette%20Trotec%20Laser%20(Photoshop).aco
 [act]: ./Farbpalette%20Trotec%20Laser%20(Adobe).act
 [ase]: ./Farbpalette%20Trotec%20Laser%20(Adobe).ase
@@ -61,11 +67,13 @@ Dieses Repository enthält Farbpaletten für diverse Grafikprogramme:
 - \*Für eine Nutzerin kopiere die `FarbpaletteTrotecLaser.clr` nach
   `~/Library/Colors/`
 
-### Weitere Installationsanleitungen 
+### Weitere Installationsanleitungen
 
-Weitere Anleitungen sind in den Support-Dokumenten der Softwarehersteller zu finden.
+Weitere Anleitungen sind in den Support-Dokumenten der Softwarehersteller zu
+finden.
 
-*Wer weiß, wie man Paletten in dem Programm ihrer Wahl installiert kann uns gerne eine Anleitung schicken.* 
+_Wer weiß, wie man Paletten in dem Programm ihrer Wahl installiert kann uns
+gerne eine Anleitung schicken._
 
 ## Farbwerte für Programme für die noch keine Farbpaletten angelegt wurden
 
